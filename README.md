@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Computer Repair Job Scheduler
 IT20 – Data Structures and Algorithms | Midterm Mini-Project | S.Y. 2026–2027
 
@@ -37,3 +38,7 @@ java RepairSchedulerGUI
 
 ## Repository
 <GitHub link>
+=======
+# repairShop27
+project
+>>>>>>> f2aced7c46972e55361b7bd16c326e25fd4330ba
